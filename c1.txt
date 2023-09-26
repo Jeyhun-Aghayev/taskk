@@ -1,0 +1,141 @@
+//#1
+//int num1 = 11;
+//int num2 = 12;
+//if (num1 == num2)
+//{
+//    Console.WriteLine("they are equal")
+//}
+//else
+//{
+//    Console.WriteLine("they are not equal")
+//}
+
+//#2
+//int num1 = 10;
+//int num2 = 11;
+//int num3 = 12;
+//if (num1 > num2 >= num3)
+//{
+//    Console.WriteLine(num1)
+//}
+//else if (num2 > num1 >= num3)
+//{
+//    Console.WriteLine(num2)
+
+//}
+//else
+//{
+//    Console.WriteLine(num3);
+//}
+
+//#3
+//int a = Convert.ToInt32(Console.ReadLine());
+//int b = Convert.ToInt32(Console.ReadLine());
+//int c = Convert.ToInt32(Console.ReadLine());
+
+//if(a + b + c == 180)
+//{
+//    Console.WriteLine(qurmaq olar)
+//}
+//else
+//{
+//    Console.WriteLine(qurmaq olmaz)
+//}
+
+//#4
+//using System.Diagnostics;
+
+//Console.WriteLine("ededi daxil edin")
+//int a = Convert.ToInt32( Console.ReadLine());
+//switch (a)
+//{
+//    case 0:
+//        Console.WriteLine("sifir");
+//        break;
+//    case 1: 
+//        Console.WriteLine("bir");
+//        break;
+//    case 2:
+//        Console.WriteLine("iki");
+//        break;
+//    case 3:
+//        Console.WriteLine("uc");
+//        break;
+//    case 4:
+//        Console.WriteLine("dord");
+//        break;
+//    case 5:
+//        Console.WriteLine("bes");
+//        break;
+//    case 6:
+//        Console.WriteLine("alt;");
+//        break;
+//    case 7:
+//        Console.WriteLine("yeddi");
+//        break;
+//    case 8:
+//        Console.WriteLine("sekkiz");
+//        break;
+//    case 9:
+//        Console.WriteLine("doqquz");
+//        break;
+//    default: Console.WriteLine("yansil secim")
+//            break;
+
+//}
+
+//#5
+
+//int a = Convert.ToInt32(Console.ReadLine());
+//Console.WriteLine("First integer=" + a);
+//int b = Convert.ToInt32(Console.ReadLine());
+//Console.WriteLine("First integer=" + b);
+
+//Console.WriteLine("emesiyyat secin 1. Addition 2. Substraction 3. Multiplication 4. Division 5. Break");
+//int sign = Convert.ToInt32(Console.ReadLine());
+//switch (sign)
+//{
+//    case 1:
+//        Console.WriteLine("Result=" + (a + b));
+//        break;
+//    case 2:
+//        Console.WriteLine("Result=" + (a - b));
+//        break;
+//    case 3:
+//        Console.WriteLine("Result=" + (a * b));
+//        break;
+//    case 4:
+//        Console.WriteLine("Result=" + (a / b));
+//        break;
+//    case 5:
+
+//        break;
+
+//}
+//Console.WriteLine("heftenin gununu daxil edin");
+//int a = Convert.ToInt32( Console.ReadLine());
+//switch (a)
+//{
+//    case 1:
+//        Console.WriteLine("bazar ertesi");
+//        break;
+//    case 2:
+//        Console.WriteLine("cersenbe axsami");
+//        break;
+//    case 3:
+//        Console.WriteLine("cersenbe");
+//        break;
+//    case 4:
+//        Console.WriteLine("cume axsami");
+//        break;
+//    case 5:
+//        Console.WriteLine("cume");
+//        break;
+//    case 6:
+//        Console.WriteLine("senbe");
+//        break;
+//    case 7:
+//        Console.WriteLine("bazar;");
+//        break;
+//}
+   
